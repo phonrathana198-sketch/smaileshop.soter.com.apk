@@ -1,3 +1,5 @@
+DNS
+
 A. A Records Type	Name	Value	TTL https://www.smlieshop.stoer.com/manifest.json
 
 
@@ -17,5 +19,5 @@ D. TXT (SPF).  v=spf1 a mx ~all
 
 E. TXT DMARC (Optional)
 
-v= DMARC1; p=none; rua=mailto:admin@smliesshop.stoer.com
+v= DMARC1; p=none; rua=mailto:adminemlie@smliesshoppatner.com
 
